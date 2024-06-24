@@ -17,8 +17,7 @@
             Console.WriteLine("roll= {0} Name of student = {1} ", roll,  name);
             //3 string interpolation.
             Console.WriteLine($"roll= {roll} Name of student = {name} ");
-            //////////////////////////////////////////////////////////////////
-            Console.WriteLine("hello....................");
+       
         }
         
     }
